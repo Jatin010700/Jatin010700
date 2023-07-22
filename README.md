@@ -2,7 +2,7 @@ https://portfolio-0hmq.onrender.com
 
 ## Tech Stack
 
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40">&nbsp;
@@ -19,8 +19,11 @@ https://portfolio-0hmq.onrender.com
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatin010700&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jatin010700&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
