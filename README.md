@@ -19,10 +19,6 @@ https://portfolio-0hmq.onrender.com
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-  <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
 </div>
 
 <div align="center">
